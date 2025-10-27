@@ -1,2 +1,0 @@
-# BookFinder
-Created with CodeSandbox
